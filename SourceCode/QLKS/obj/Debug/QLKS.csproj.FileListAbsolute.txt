@@ -1,0 +1,211 @@
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\QLKS.exe.config
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\QLKS.exe
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\QLKS.pdb
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.csproj.AssemblyReference.cache
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fAccount.resources
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fCheckout.resources
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fCustomer.resources
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fHome.resources
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fLogin.resources
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fRegister.resources
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fRentRom.resources
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fRoom.resources
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fSalesReport.resources
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.exe
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.pdb
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fMain.resources
+D:\GIT 3 LOP\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\QLKS.exe.config
+D:\GIT 3 LOP\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\QLKS.exe
+D:\GIT 3 LOP\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\QLKS.pdb
+D:\GIT 3 LOP\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.csproj.AssemblyReference.cache
+D:\GIT 3 LOP\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.DanhmucPhong.resources
+D:\GIT 3 LOP\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fAccount.resources
+D:\GIT 3 LOP\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fCheckout.resources
+D:\GIT 3 LOP\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fCustomer.resources
+D:\GIT 3 LOP\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fHome.resources
+D:\GIT 3 LOP\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fLogin.resources
+D:\GIT 3 LOP\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fMain.resources
+D:\GIT 3 LOP\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fRegister.resources
+D:\GIT 3 LOP\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fRentRom.resources
+D:\GIT 3 LOP\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fResetPassword.resources
+D:\GIT 3 LOP\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fRoom.resources
+D:\GIT 3 LOP\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fSalesReport.resources
+D:\GIT 3 LOP\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+D:\GIT 3 LOP\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+D:\GIT 3 LOP\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+D:\GIT 3 LOP\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.exe
+D:\GIT 3 LOP\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.pdb
+D:\GIT 3 LOP\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\DAO.exe
+D:\GIT 3 LOP\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\DAO.pdb
+D:\GIT 3 LOP\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\DAO.exe.config
+D:\GIT 3 LOP\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.csproj.CopyComplete
+D:\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\QLKS.exe.config
+D:\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\QLKS.exe
+D:\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\QLKS.pdb
+D:\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\DAO.exe
+D:\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\DAO.pdb
+D:\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\DAO.exe.config
+D:\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.csproj.AssemblyReference.cache
+D:\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fAccount.resources
+D:\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fCheckout.resources
+D:\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fCustomer.resources
+D:\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fHome.resources
+D:\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fLogin.resources
+D:\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fMain.resources
+D:\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fRegister.resources
+D:\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fRentRom.resources
+D:\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fRoom.resources
+D:\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fSalesReport.resources
+D:\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+D:\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+D:\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+D:\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.csproj.CopyComplete
+D:\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.exe
+D:\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.pdb
+D:\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\BUS.exe
+D:\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\DTO.exe
+D:\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\BUS.pdb
+D:\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\BUS.exe.config
+D:\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\DTO.pdb
+D:\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\DTO.exe.config
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\BUS.exe
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\DAO.exe
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\DTO.exe
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\BUS.pdb
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\BUS.exe.config
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\DAO.pdb
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\DAO.exe.config
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\DTO.pdb
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\DTO.exe.config
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.csproj.CopyComplete
+E:\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\QLKS.exe.config
+E:\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\QLKS.exe
+E:\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\QLKS.pdb
+E:\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\BUS.exe
+E:\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\DAO.exe
+E:\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\DTO.exe
+E:\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\BUS.pdb
+E:\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\BUS.exe.config
+E:\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\DAO.pdb
+E:\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\DAO.exe.config
+E:\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\DTO.pdb
+E:\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\DTO.exe.config
+E:\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.csproj.AssemblyReference.cache
+E:\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.DanhmucPhong.resources
+E:\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fAccount.resources
+E:\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fCheckout.resources
+E:\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fCustomer.resources
+E:\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fHome.resources
+E:\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fLogin.resources
+E:\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fMain.resources
+E:\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fRegister.resources
+E:\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fRentRom.resources
+E:\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fResetPassword.resources
+E:\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fRoom.resources
+E:\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fSalesReport.resources
+E:\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+E:\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+E:\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+E:\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.csproj.CopyComplete
+E:\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.exe
+E:\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.pdb
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\QLKS.exe.config
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\QLKS.exe
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\QLKS.pdb
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\BUS.exe
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\DAO.exe
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\DTO.exe
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\BUS.pdb
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\BUS.exe.config
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\DAO.pdb
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\DAO.exe.config
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\DTO.pdb
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\DTO.exe.config
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.csproj.AssemblyReference.cache
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.DanhmucPhong.resources
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fAccount.resources
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fCheckout.resources
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fCustomer.resources
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fHome.resources
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fLogin.resources
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fMain.resources
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fRegister.resources
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fRentRom.resources
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fResetPassword.resources
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fRoom.resources
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fSalesReport.resources
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.csproj.CopyComplete
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.exe
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.pdb
+D:\GIT 3 LOP\SourceCode\QLKS\bin\Debug\QLKS.exe.config
+D:\GIT 3 LOP\SourceCode\QLKS\bin\Debug\QLKS.exe
+D:\GIT 3 LOP\SourceCode\QLKS\bin\Debug\QLKS.pdb
+D:\GIT 3 LOP\SourceCode\QLKS\bin\Debug\BUS.exe
+D:\GIT 3 LOP\SourceCode\QLKS\bin\Debug\DAO.exe
+D:\GIT 3 LOP\SourceCode\QLKS\bin\Debug\DTO.exe
+D:\GIT 3 LOP\SourceCode\QLKS\bin\Debug\BUS.pdb
+D:\GIT 3 LOP\SourceCode\QLKS\bin\Debug\BUS.exe.config
+D:\GIT 3 LOP\SourceCode\QLKS\bin\Debug\DAO.pdb
+D:\GIT 3 LOP\SourceCode\QLKS\bin\Debug\DAO.exe.config
+D:\GIT 3 LOP\SourceCode\QLKS\bin\Debug\DTO.pdb
+D:\GIT 3 LOP\SourceCode\QLKS\bin\Debug\DTO.exe.config
+D:\GIT 3 LOP\SourceCode\QLKS\obj\Debug\QLKS.csproj.AssemblyReference.cache
+D:\GIT 3 LOP\SourceCode\QLKS\obj\Debug\QLKS.fAccount.resources
+D:\GIT 3 LOP\SourceCode\QLKS\obj\Debug\QLKS.fCheckout.resources
+D:\GIT 3 LOP\SourceCode\QLKS\obj\Debug\QLKS.fCustomer.resources
+D:\GIT 3 LOP\SourceCode\QLKS\obj\Debug\QLKS.fHome.resources
+D:\GIT 3 LOP\SourceCode\QLKS\obj\Debug\QLKS.fLogin.resources
+D:\GIT 3 LOP\SourceCode\QLKS\obj\Debug\QLKS.fMain.resources
+D:\GIT 3 LOP\SourceCode\QLKS\obj\Debug\QLKS.fmnRoom.resources
+D:\GIT 3 LOP\SourceCode\QLKS\obj\Debug\QLKS.fRegister.resources
+D:\GIT 3 LOP\SourceCode\QLKS\obj\Debug\QLKS.fRentRom.resources
+D:\GIT 3 LOP\SourceCode\QLKS\obj\Debug\QLKS.fResetPassword.resources
+D:\GIT 3 LOP\SourceCode\QLKS\obj\Debug\QLKS.fRoom.resources
+D:\GIT 3 LOP\SourceCode\QLKS\obj\Debug\QLKS.fSalesReport.resources
+D:\GIT 3 LOP\SourceCode\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+D:\GIT 3 LOP\SourceCode\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+D:\GIT 3 LOP\SourceCode\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+D:\GIT 3 LOP\SourceCode\QLKS\obj\Debug\QLKS.csproj.CopyComplete
+D:\GIT 3 LOP\SourceCode\QLKS\obj\Debug\QLKS.exe
+D:\GIT 3 LOP\SourceCode\QLKS\obj\Debug\QLKS.pdb
+D:\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fmnRoom.resources
+D:\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fChangeInfor.resources
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fChangeInfor.resources
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fmnRoom.resources
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\QLKS.exe.config
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\QLKS.exe
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\QLKS.pdb
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\BUS.exe
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\DAO.exe
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\DTO.exe
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\BUS.pdb
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\BUS.exe.config
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\DAO.pdb
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\DAO.exe.config
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\DTO.pdb
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\QLKS\bin\Debug\DTO.exe.config
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.csproj.AssemblyReference.cache
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fAccount.resources
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fChangeInfor.resources
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fCheckout.resources
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fCustomer.resources
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fHome.resources
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fLogin.resources
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fMain.resources
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fmnRoom.resources
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fRegister.resources
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fRentRom.resources
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fRoom.resources
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.fSalesReport.resources
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.csproj.CopyComplete
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.exe
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\QLKS\obj\Debug\QLKS.pdb

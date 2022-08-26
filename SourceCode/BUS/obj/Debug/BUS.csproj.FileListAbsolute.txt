@@ -1,0 +1,96 @@
+D:\QUAN-LY-KHACH-SAN\SourceCode\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\QUAN-LY-KHACH-SAN\SourceCode\BUS\obj\Debug\BUS.Properties.Resources.resources
+D:\QUAN-LY-KHACH-SAN\SourceCode\BUS\obj\Debug\BUS.csproj.GenerateResource.cache
+D:\QUAN-LY-KHACH-SAN\SourceCode\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\QUAN-LY-KHACH-SAN\SourceCode\BUS\bin\Debug\BUS.exe.config
+D:\QUAN-LY-KHACH-SAN\SourceCode\BUS\bin\Debug\BUS.exe
+D:\QUAN-LY-KHACH-SAN\SourceCode\BUS\bin\Debug\BUS.pdb
+D:\QUAN-LY-KHACH-SAN\SourceCode\BUS\obj\Debug\BUS.exe
+D:\QUAN-LY-KHACH-SAN\SourceCode\BUS\obj\Debug\BUS.pdb
+D:\QUAN-LY-KHACH-SAN\SourceCode\BUS\bin\Debug\DAO.exe
+D:\QUAN-LY-KHACH-SAN\SourceCode\BUS\bin\Debug\DTO.exe
+D:\QUAN-LY-KHACH-SAN\SourceCode\BUS\bin\Debug\DAO.pdb
+D:\QUAN-LY-KHACH-SAN\SourceCode\BUS\bin\Debug\DAO.exe.config
+D:\QUAN-LY-KHACH-SAN\SourceCode\BUS\bin\Debug\DTO.pdb
+D:\QUAN-LY-KHACH-SAN\SourceCode\BUS\bin\Debug\DTO.exe.config
+D:\QUAN-LY-KHACH-SAN\SourceCode\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\BUS\bin\Debug\BUS.exe.config
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\BUS\bin\Debug\BUS.exe
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\BUS\bin\Debug\BUS.pdb
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\BUS\bin\Debug\DAO.exe
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\BUS\bin\Debug\DTO.exe
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\BUS\bin\Debug\DAO.pdb
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\BUS\bin\Debug\DAO.exe.config
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\BUS\bin\Debug\DTO.pdb
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\BUS\bin\Debug\DTO.exe.config
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\BUS\obj\Debug\BUS.Properties.Resources.resources
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\BUS\obj\Debug\BUS.csproj.GenerateResource.cache
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\BUS\obj\Debug\BUS.exe
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\BUS\obj\Debug\BUS.pdb
+E:\QUAN-LY-KHACH-SAN\SourceCode\BUS\bin\Debug\BUS.exe.config
+E:\QUAN-LY-KHACH-SAN\SourceCode\BUS\bin\Debug\BUS.exe
+E:\QUAN-LY-KHACH-SAN\SourceCode\BUS\bin\Debug\BUS.pdb
+E:\QUAN-LY-KHACH-SAN\SourceCode\BUS\bin\Debug\DAO.exe
+E:\QUAN-LY-KHACH-SAN\SourceCode\BUS\bin\Debug\DTO.exe
+E:\QUAN-LY-KHACH-SAN\SourceCode\BUS\bin\Debug\DAO.pdb
+E:\QUAN-LY-KHACH-SAN\SourceCode\BUS\bin\Debug\DAO.exe.config
+E:\QUAN-LY-KHACH-SAN\SourceCode\BUS\bin\Debug\DTO.pdb
+E:\QUAN-LY-KHACH-SAN\SourceCode\BUS\bin\Debug\DTO.exe.config
+E:\QUAN-LY-KHACH-SAN\SourceCode\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\QUAN-LY-KHACH-SAN\SourceCode\BUS\obj\Debug\BUS.Properties.Resources.resources
+E:\QUAN-LY-KHACH-SAN\SourceCode\BUS\obj\Debug\BUS.csproj.GenerateResource.cache
+E:\QUAN-LY-KHACH-SAN\SourceCode\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\QUAN-LY-KHACH-SAN\SourceCode\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\QUAN-LY-KHACH-SAN\SourceCode\BUS\obj\Debug\BUS.exe
+E:\QUAN-LY-KHACH-SAN\SourceCode\BUS\obj\Debug\BUS.pdb
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\BUS\bin\Debug\BUS.exe.config
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\BUS\bin\Debug\BUS.exe
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\BUS\bin\Debug\BUS.pdb
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\BUS\bin\Debug\DAO.exe
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\BUS\bin\Debug\DTO.exe
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\BUS\bin\Debug\DAO.pdb
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\BUS\bin\Debug\DAO.exe.config
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\BUS\bin\Debug\DTO.pdb
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\BUS\bin\Debug\DTO.exe.config
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\BUS\obj\Debug\BUS.Properties.Resources.resources
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\BUS\obj\Debug\BUS.csproj.GenerateResource.cache
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\BUS\obj\Debug\BUS.exe
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\BUS\obj\Debug\BUS.pdb
+D:\GIT 3 LOP\SourceCode\BUS\bin\Debug\BUS.exe.config
+D:\GIT 3 LOP\SourceCode\BUS\bin\Debug\BUS.exe
+D:\GIT 3 LOP\SourceCode\BUS\bin\Debug\BUS.pdb
+D:\GIT 3 LOP\SourceCode\BUS\bin\Debug\DAO.exe
+D:\GIT 3 LOP\SourceCode\BUS\bin\Debug\DTO.exe
+D:\GIT 3 LOP\SourceCode\BUS\bin\Debug\DAO.pdb
+D:\GIT 3 LOP\SourceCode\BUS\bin\Debug\DAO.exe.config
+D:\GIT 3 LOP\SourceCode\BUS\bin\Debug\DTO.pdb
+D:\GIT 3 LOP\SourceCode\BUS\bin\Debug\DTO.exe.config
+D:\GIT 3 LOP\SourceCode\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\GIT 3 LOP\SourceCode\BUS\obj\Debug\BUS.Properties.Resources.resources
+D:\GIT 3 LOP\SourceCode\BUS\obj\Debug\BUS.csproj.GenerateResource.cache
+D:\GIT 3 LOP\SourceCode\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\GIT 3 LOP\SourceCode\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\GIT 3 LOP\SourceCode\BUS\obj\Debug\BUS.exe
+D:\GIT 3 LOP\SourceCode\BUS\obj\Debug\BUS.pdb
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\BUS\bin\Debug\BUS.exe.config
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\BUS\bin\Debug\BUS.exe
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\BUS\bin\Debug\BUS.pdb
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\BUS\bin\Debug\DAO.exe
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\BUS\bin\Debug\DTO.exe
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\BUS\bin\Debug\DAO.pdb
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\BUS\bin\Debug\DAO.exe.config
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\BUS\bin\Debug\DTO.pdb
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\BUS\bin\Debug\DTO.exe.config
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\BUS\obj\Debug\BUS.Properties.Resources.resources
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\BUS\obj\Debug\BUS.csproj.GenerateResource.cache
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\BUS\obj\Debug\BUS.exe
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\BUS\obj\Debug\BUS.pdb

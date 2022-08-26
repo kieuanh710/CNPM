@@ -1,0 +1,78 @@
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\DAO\obj\Debug\DAO.Properties.Resources.resources
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\DAO\obj\Debug\DAO.csproj.GenerateResource.cache
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\DAO\bin\Debug\DAO.exe.config
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\DAO\bin\Debug\DAO.exe
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\DAO\bin\Debug\DAO.pdb
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\DAO\obj\Debug\DAO.exe
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\DAO\obj\Debug\DAO.pdb
+D:\QUAN-LY-KHACH-SAN\SourceCode\DAO\bin\Debug\DAO.exe.config
+D:\QUAN-LY-KHACH-SAN\SourceCode\DAO\bin\Debug\DAO.exe
+D:\QUAN-LY-KHACH-SAN\SourceCode\DAO\bin\Debug\DAO.pdb
+D:\QUAN-LY-KHACH-SAN\SourceCode\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\QUAN-LY-KHACH-SAN\SourceCode\DAO\obj\Debug\DAO.Properties.Resources.resources
+D:\QUAN-LY-KHACH-SAN\SourceCode\DAO\obj\Debug\DAO.csproj.GenerateResource.cache
+D:\QUAN-LY-KHACH-SAN\SourceCode\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\QUAN-LY-KHACH-SAN\SourceCode\DAO\obj\Debug\DAO.exe
+D:\QUAN-LY-KHACH-SAN\SourceCode\DAO\obj\Debug\DAO.pdb
+D:\QUAN-LY-KHACH-SAN\SourceCode\DAO\bin\Debug\DTO.exe
+D:\QUAN-LY-KHACH-SAN\SourceCode\DAO\bin\Debug\DTO.pdb
+D:\QUAN-LY-KHACH-SAN\SourceCode\DAO\bin\Debug\DTO.exe.config
+D:\QUAN-LY-KHACH-SAN\SourceCode\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\DAO\bin\Debug\DTO.exe
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\DAO\bin\Debug\DTO.pdb
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\DAO\bin\Debug\DTO.exe.config
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\DAO\obj\Debug\DAO.csproj.CopyComplete
+E:\QUAN-LY-KHACH-SAN\SourceCode\DAO\bin\Debug\DAO.exe.config
+E:\QUAN-LY-KHACH-SAN\SourceCode\DAO\bin\Debug\DAO.exe
+E:\QUAN-LY-KHACH-SAN\SourceCode\DAO\bin\Debug\DAO.pdb
+E:\QUAN-LY-KHACH-SAN\SourceCode\DAO\bin\Debug\DTO.exe
+E:\QUAN-LY-KHACH-SAN\SourceCode\DAO\bin\Debug\DTO.pdb
+E:\QUAN-LY-KHACH-SAN\SourceCode\DAO\bin\Debug\DTO.exe.config
+E:\QUAN-LY-KHACH-SAN\SourceCode\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+E:\QUAN-LY-KHACH-SAN\SourceCode\DAO\obj\Debug\DAO.Properties.Resources.resources
+E:\QUAN-LY-KHACH-SAN\SourceCode\DAO\obj\Debug\DAO.csproj.GenerateResource.cache
+E:\QUAN-LY-KHACH-SAN\SourceCode\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+E:\QUAN-LY-KHACH-SAN\SourceCode\DAO\obj\Debug\DAO.csproj.CopyComplete
+E:\QUAN-LY-KHACH-SAN\SourceCode\DAO\obj\Debug\DAO.exe
+E:\QUAN-LY-KHACH-SAN\SourceCode\DAO\obj\Debug\DAO.pdb
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\DAO\bin\Debug\DAO.exe.config
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\DAO\bin\Debug\DAO.exe
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\DAO\bin\Debug\DAO.pdb
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\DAO\bin\Debug\DTO.exe
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\DAO\bin\Debug\DTO.pdb
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\DAO\bin\Debug\DTO.exe.config
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\DAO\obj\Debug\DAO.Properties.Resources.resources
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\DAO\obj\Debug\DAO.csproj.GenerateResource.cache
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\DAO\obj\Debug\DAO.csproj.CopyComplete
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\DAO\obj\Debug\DAO.exe
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\DAO\obj\Debug\DAO.pdb
+D:\GIT 3 LOP\SourceCode\DAO\bin\Debug\DAO.exe.config
+D:\GIT 3 LOP\SourceCode\DAO\bin\Debug\DAO.exe
+D:\GIT 3 LOP\SourceCode\DAO\bin\Debug\DAO.pdb
+D:\GIT 3 LOP\SourceCode\DAO\bin\Debug\DTO.exe
+D:\GIT 3 LOP\SourceCode\DAO\bin\Debug\DTO.pdb
+D:\GIT 3 LOP\SourceCode\DAO\bin\Debug\DTO.exe.config
+D:\GIT 3 LOP\SourceCode\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\GIT 3 LOP\SourceCode\DAO\obj\Debug\DAO.Properties.Resources.resources
+D:\GIT 3 LOP\SourceCode\DAO\obj\Debug\DAO.csproj.GenerateResource.cache
+D:\GIT 3 LOP\SourceCode\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\GIT 3 LOP\SourceCode\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\GIT 3 LOP\SourceCode\DAO\obj\Debug\DAO.exe
+D:\GIT 3 LOP\SourceCode\DAO\obj\Debug\DAO.pdb
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\DAO\bin\Debug\DAO.exe.config
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\DAO\bin\Debug\DAO.exe
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\DAO\bin\Debug\DAO.pdb
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\DAO\bin\Debug\DTO.exe
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\DAO\bin\Debug\DTO.pdb
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\DAO\bin\Debug\DTO.exe.config
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\DAO\obj\Debug\DAO.Properties.Resources.resources
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\DAO\obj\Debug\DAO.csproj.GenerateResource.cache
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\DAO\obj\Debug\DAO.exe
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\DAO\obj\Debug\DAO.pdb

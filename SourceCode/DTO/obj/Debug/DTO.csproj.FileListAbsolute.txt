@@ -1,0 +1,54 @@
+D:\QUAN-LY-KHACH-SAN\SourceCode\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\QUAN-LY-KHACH-SAN\SourceCode\DTO\obj\Debug\DTO.Properties.Resources.resources
+D:\QUAN-LY-KHACH-SAN\SourceCode\DTO\obj\Debug\DTO.csproj.GenerateResource.cache
+D:\QUAN-LY-KHACH-SAN\SourceCode\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\QUAN-LY-KHACH-SAN\SourceCode\DTO\bin\Debug\DTO.exe.config
+D:\QUAN-LY-KHACH-SAN\SourceCode\DTO\bin\Debug\DTO.exe
+D:\QUAN-LY-KHACH-SAN\SourceCode\DTO\bin\Debug\DTO.pdb
+D:\QUAN-LY-KHACH-SAN\SourceCode\DTO\obj\Debug\DTO.exe
+D:\QUAN-LY-KHACH-SAN\SourceCode\DTO\obj\Debug\DTO.pdb
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\DTO\bin\Debug\DTO.exe.config
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\DTO\bin\Debug\DTO.exe
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\DTO\bin\Debug\DTO.pdb
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\DTO\obj\Debug\DTO.Properties.Resources.resources
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\DTO\obj\Debug\DTO.csproj.GenerateResource.cache
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\DTO\obj\Debug\DTO.exe
+D:\NMCNPM\QUAN-LY-KHACH-SAN\SourceCode\DTO\obj\Debug\DTO.pdb
+E:\QUAN-LY-KHACH-SAN\SourceCode\DTO\bin\Debug\DTO.exe.config
+E:\QUAN-LY-KHACH-SAN\SourceCode\DTO\bin\Debug\DTO.exe
+E:\QUAN-LY-KHACH-SAN\SourceCode\DTO\bin\Debug\DTO.pdb
+E:\QUAN-LY-KHACH-SAN\SourceCode\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\QUAN-LY-KHACH-SAN\SourceCode\DTO\obj\Debug\DTO.Properties.Resources.resources
+E:\QUAN-LY-KHACH-SAN\SourceCode\DTO\obj\Debug\DTO.csproj.GenerateResource.cache
+E:\QUAN-LY-KHACH-SAN\SourceCode\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\QUAN-LY-KHACH-SAN\SourceCode\DTO\obj\Debug\DTO.exe
+E:\QUAN-LY-KHACH-SAN\SourceCode\DTO\obj\Debug\DTO.pdb
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\DTO\bin\Debug\DTO.exe.config
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\DTO\bin\Debug\DTO.exe
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\DTO\bin\Debug\DTO.pdb
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\DTO\obj\Debug\DTO.Properties.Resources.resources
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\DTO\obj\Debug\DTO.csproj.GenerateResource.cache
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\DTO\obj\Debug\DTO.exe
+E:\test\QUAN-LY-KHACH-SAN\SourceCode\DTO\obj\Debug\DTO.pdb
+D:\GIT 3 LOP\SourceCode\DTO\bin\Debug\DTO.exe.config
+D:\GIT 3 LOP\SourceCode\DTO\bin\Debug\DTO.exe
+D:\GIT 3 LOP\SourceCode\DTO\bin\Debug\DTO.pdb
+D:\GIT 3 LOP\SourceCode\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\GIT 3 LOP\SourceCode\DTO\obj\Debug\DTO.Properties.Resources.resources
+D:\GIT 3 LOP\SourceCode\DTO\obj\Debug\DTO.csproj.GenerateResource.cache
+D:\GIT 3 LOP\SourceCode\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\GIT 3 LOP\SourceCode\DTO\obj\Debug\DTO.exe
+D:\GIT 3 LOP\SourceCode\DTO\obj\Debug\DTO.pdb
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\DTO\bin\Debug\DTO.exe.config
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\DTO\bin\Debug\DTO.exe
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\DTO\bin\Debug\DTO.pdb
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\DTO\obj\Debug\DTO.Properties.Resources.resources
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\DTO\obj\Debug\DTO.csproj.GenerateResource.cache
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\DTO\obj\Debug\DTO.exe
+D:\CNPM\QUAN-LY-KHACH-SAN\SourceCode\DTO\obj\Debug\DTO.pdb
